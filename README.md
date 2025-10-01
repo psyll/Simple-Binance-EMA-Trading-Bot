@@ -1,3 +1,5 @@
+![alt text](images/header.jpg)
+
 # 🚀 Simple Binance EMA Trading Bot
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
@@ -8,8 +10,6 @@
 
 Automated cryptocurrency trading can save time ⏱️, reduce emotional mistakes 😅, and execute trades faster than human reaction allows.
 This Python bot implements a **simple EMA crossover strategy** for Binance – perfect for beginners in algorithmic trading.
-
-![alt text](images/header.jpg)
 
 ![alt text](images/screen.png)
 
