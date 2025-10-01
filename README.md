@@ -4,8 +4,11 @@
 ![CCXT](https://img.shields.io/badge/CCXT-Binance-yellow)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+🔗 Visit [Psyll.com](https://psyll.com/en) for best trading bots on the market
+
 Automated cryptocurrency trading can save time ⏱️, reduce emotional mistakes 😅, and execute trades faster than human reaction allows.
 This Python bot implements a **simple EMA crossover strategy** for Binance – perfect for beginners in algorithmic trading.
+
 
 ---
 
