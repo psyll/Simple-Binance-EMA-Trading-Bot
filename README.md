@@ -1,6 +1,6 @@
-![alt text](images/header.jpg)
 
 # 🚀 Simple Binance EMA Trading Bot
+![alt text](images/header.jpg)
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![CCXT](https://img.shields.io/badge/CCXT-Binance-yellow)
