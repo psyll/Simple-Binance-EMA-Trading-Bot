@@ -9,8 +9,9 @@
 Automated cryptocurrency trading can save time ⏱️, reduce emotional mistakes 😅, and execute trades faster than human reaction allows.
 This Python bot implements a **simple EMA crossover strategy** for Binance – perfect for beginners in algorithmic trading.
 
+![alt text](images/header.jpg)
 
----
+![alt text](images/screen.png)
 
 ## ✨ Features
 
@@ -21,7 +22,6 @@ This Python bot implements a **simple EMA crossover strategy** for Binance – p
 - ⚡ Executes market orders instantly
 - 🔄 Continuous loop with error handling for uninterrupted trading
 
----
 
 ## 📖 How It Works
 
@@ -36,7 +36,7 @@ The **Exponential Moving Average (EMA)** gives more weight to recent prices, rea
 - **Buy:** Short EMA crosses above Long EMA
 - **Sell:** Short EMA crosses below Long EMA
 
----
+
 
 ## 🛠 Prerequisites
 - Binance API keys with trading & balance permissions only (do not enable withdrawal)
